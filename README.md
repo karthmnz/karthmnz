@@ -4,6 +4,6 @@ I am a Computer Engineering Grad Student at UofT. Most of my research work and p
 I am trying to update this repo frequently, but most of my work are under NDA. 
 
 Feel free to check my personal website to reach out to me. 
-https://www.karthmnz.github.io
+karthmnz.github.io
 
 
