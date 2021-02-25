@@ -7,3 +7,4 @@ Feel free to check my personal website to reach out to me.
 https://karthmnz.github.io/
 
 
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
